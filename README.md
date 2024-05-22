@@ -58,3 +58,8 @@ Iris Shannon's Public Resume
 - Troubleshoot different storage/virtualization/domain issues on via Bash CLI.
 - Troubleshoot active directory integrations with file shares that were virtualized.
 - Worked with ZFS.
+
+## Certifications
+
+GitOps Fundamentals Level 1 and 2
+- https://www.linkedin.com/in/iriseshannon/details/certifications/
