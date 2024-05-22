@@ -61,5 +61,6 @@ Iris Shannon's Public Resume
 
 ## Certifications
 
-GitOps Fundamentals Level 1 and 2
+GitOps Fundamentals Level 1
+GitOps at Scale Level 2
 - https://www.linkedin.com/in/iriseshannon/details/certifications/
