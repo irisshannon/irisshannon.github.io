@@ -1,0 +1,8 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Iris Shannon'
+author = 'Iris Shannon'
+theme = 'm10c'
+avatar = 'logo.jpg'
+[params]
+ favicon = 'favicon.ico'
