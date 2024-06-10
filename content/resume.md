@@ -1,9 +1,9 @@
-# irisshannon.github.io
-Iris Shannon's Public Resume
-
-
-## Work Experience
-
++++
+title = 'Resume'
+date = 2024-06-09T21:42:17-04:00
+draft = false
+type = "page"
++++
 
 ### Cytracom, Remote - Network Support Engineer - Tier 2
 #### July 2023 - Present
