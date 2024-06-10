@@ -62,5 +62,6 @@ type = "page"
 ## Certifications
 
 GitOps Fundamentals Level 1
+
 GitOps at Scale Level 2
 - https://www.linkedin.com/in/iriseshannon/details/certifications/
