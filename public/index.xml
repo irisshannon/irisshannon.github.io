@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iris Shannon</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Iris Shannon</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 09 Jun 2024 21:47:34 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>//localhost:1313/posts/introduction/</link>
+      <pubDate>Sun, 09 Jun 2024 21:47:34 -0400</pubDate>
+      <guid>//localhost:1313/posts/introduction/</guid>
+      <description>Hello! I&amp;rsquo;m Iris, full-time networking-developer-devopsec-whatever engineer, part-time writer and cat enthusiast. I decided to remake my personal webpage I made a few months on hugo, due to incredibly quick rendering speed and the ease of deployment.&#xA;My Approach Hugo seemed like the next best approached to my Resume/Blog/Project/REDACTE website when I was initally considering redesigning everything. I really didn&amp;rsquo;t want to mess around with raw html and css, I&amp;rsquo;m not much of a frontend designer, but I am forcing myself to interact more with frontend elements.</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>//localhost:1313/resume/</link>
+      <pubDate>Sun, 09 Jun 2024 21:42:17 -0400</pubDate>
+      <guid>//localhost:1313/resume/</guid>
+      <description>Cytracom, Remote - Network Support Engineer - Tier 2 July 2023 - Present Support side incident management for support side issues. Worked with server-side orchestration with Ansible, salt, and bash/python scripting. Troubleshooting Kubernetes issues within production. Implements complex networking solutions for our clients on a large scale. Creating documentation for internal and 3rd party tooling for onboarding purposes. Helped incorporate grafana into escalation workflows with large clients to keep one step ahead of end-user issues.</description>
+    </item>
+  </channel>
+</rss>
