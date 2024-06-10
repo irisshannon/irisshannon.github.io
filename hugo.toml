@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://irisshannon.dev"
 title = "Iris Shannon"
 theme = "gokarna"
 languageCode = "en"
