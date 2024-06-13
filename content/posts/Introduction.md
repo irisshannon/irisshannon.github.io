@@ -8,7 +8,7 @@ tags = ["blog"]
 
 ## Hello!
 
-I'm Iris, full-time networking-developer-devopsec-whatever engineer, part-time writer and cat enthusiast.   I decided to remake my personal webpage I made a few months on hugo, due to incredibly quick rendering speed and the ease of deployment.  
+I'm Iris, full-time networking-developer-devopsec-whatever engineer, part-time writer, and cat enthusiast.   I decided to remake my personal webpage I made a few months on hugo, due to incredibly quick rendering speed and the ease of deployment.  
 
 ## My Approach
 
