@@ -2,6 +2,8 @@
 title = 'Lessons Learn'
 date = 2024-06-14T21:13:07-04:00
 draft = false
+type = "post"
+tags = ["blog"]
 +++
 
 
