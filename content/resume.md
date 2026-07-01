@@ -5,8 +5,29 @@ draft = false
 type = "page"
 +++
 
+### Octopus, Remote - Senior DevOps Support Engineer
+#### October 2024 - Present 
+- One of the SMEs for our Codefresh CI / ArgoCD Product Line, along with one of the big Linux SMEs on the team between various distros.
+- One of the technical escalation points for our various productlines along 
+- Creating Claude Skilling for easy troubleshooting reproduction, even in more complex enviroments like OpenShift.
+- Working with both our Codefresh CI and Octopus CD clients, with an emphasis on ArgoCD.
+- Revamped Onboarding and Onboarded new hires.
+- Assisted in creating documentation for highly complex ArgoCD troubleshooting scenarios.
+- Created various scripting workarounds to clients in Bash, Powershell, amongst others. 
+
+### Octopus, Remote - Developer Support Engineer
+#### July 2024 - October 2024
+- Working primarily on supporting clients with Codefresh CI / ArgoCD
+- Worked assisting in OSS ArgoCD issues, suggesting against common anti-patterns for deploy, and became certified on the matter as well.
+- Revamping training and documentation around the product line 
+- Troubleshooted and worked with common CI tools and technologies, I.E. docker, .
+- Troubleshoot highly complex Platform Enviroments with Kubernetes, Terraform, ArgoCD, amongst many other dependencies.
+- Used Grafana and New Relic to identify issues with the platform.
+- Learned and troubleshoot just about every cloud platform avaliable from AWS, GCP, Azure, etc.
+
+
 ### Cytracom, Remote - Network Support Engineer - Tier 2
-#### July 2023 - Present
+#### July 2023 - July 2024
 - Support side incident management for support side issues.
 - Worked with server-side orchestration with Ansible, salt, and bash/python scripting.
 - Troubleshooting Kubernetes issues within production.
@@ -62,6 +83,13 @@ type = "page"
 ## Certifications
 
 GitOps Fundamentals Level 1
+- https://www.linkedin.com/in/iriseshannon/details/certifications/
 
 GitOps at Scale Level 2
 - https://www.linkedin.com/in/iriseshannon/details/certifications/
+
+Octopus Fundamentals
+- https://www.credly.com/badges/92a82dd9-6d2a-45e3-9ef4-9e3ac484310e/linked_in_profile
+
+Gitops Enterprise
+-  https://www.credly.com/badges/c553b877-6c03-4e8c-aadf-c61379353b7b/linked_in_profile
