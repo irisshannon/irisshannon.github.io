@@ -5,7 +5,7 @@ draft = false
 type = "page"
 +++
 
-### Octopus, Remote - Senior DevOps Support Engineer
+### Octopus Deploy, Remote - Senior DevOps Support Engineer
 #### October 2024 - Present 
 - One of the SMEs for our Codefresh CI / ArgoCD Product Line, along with one of the big Linux SMEs on the team between various distros.
 - One of the technical escalation points for our various productlines along 
@@ -15,7 +15,7 @@ type = "page"
 - Assisted in creating documentation for highly complex ArgoCD troubleshooting scenarios.
 - Created various scripting workarounds to clients in Bash, Powershell, amongst others. 
 
-### Octopus, Remote - Developer Support Engineer
+### Octopus Deploy, Remote - Developer Support Engineer
 #### July 2024 - October 2024
 - Working primarily on supporting clients with Codefresh CI / ArgoCD
 - Worked assisting in OSS ArgoCD issues, suggesting against common anti-patterns for deploy, and became certified on the matter as well.
