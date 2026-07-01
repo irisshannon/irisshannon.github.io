@@ -8,22 +8,22 @@ type = "page"
 ### Octopus Deploy, Remote - Senior DevOps Support Engineer
 #### October 2024 - Present 
 - One of the SMEs for our Codefresh CI / ArgoCD Product Line, along with one of the big Linux SMEs on the team between various distros.
-- One of the technical escalation points for our various productlines along 
-- Creating Claude Skilling for easy troubleshooting reproduction, even in more complex enviroments like OpenShift.
+- One of the technical escalation points for our various product lines along 
+- Creating Claude Skilling for easy troubleshooting reproduction, even in more complex environments like OpenShift.
 - Working with both our Codefresh CI and Octopus CD clients, with an emphasis on ArgoCD.
-- Revamped Onboarding and Onboarded new hires.
-- Assisted in creating documentation for highly complex ArgoCD troubleshooting scenarios.
-- Created various scripting workarounds to clients in Bash, Powershell, amongst others. 
+- Revamped Onboarding and onboarded new hires.
+- Assisted in creating documentation for highly complex ArgoCD/Kubernetes/Docker/Helm troubleshooting scenarios.
+- Created various scripting workarounds for clients in Bash and PowerShell, amongst others. 
 
 ### Octopus Deploy, Remote - Developer Support Engineer
 #### July 2024 - October 2024
 - Working primarily on supporting clients with Codefresh CI / ArgoCD
-- Worked assisting in OSS ArgoCD issues, suggesting against common anti-patterns for deploy, and became certified on the matter as well.
+- Worked assisting in OSS ArgoCD issues, suggesting against common anti-patterns for deployment, and became certified on the matter as well.
 - Revamping training and documentation around the product line 
-- Troubleshooted and worked with common CI tools and technologies, I.E. docker, .
-- Troubleshoot highly complex Platform Enviroments with Kubernetes, Terraform, ArgoCD, amongst many other dependencies.
+- Troubleshot and worked with common CI tools and technologies, I.E., Docker.
+- Troubleshot highly complex Platform Environments with Kubernetes, Terraform, ArgoCD, amongst many other dependencies.
 - Used Grafana and New Relic to identify issues with the platform.
-- Learned and troubleshoot just about every cloud platform avaliable from AWS, GCP, Azure, etc.
+- Learned and troubleshot just about every cloud platform available, from AWS, GCP, Azure, etc.
 
 
 ### Cytracom, Remote - Network Support Engineer - Tier 2
